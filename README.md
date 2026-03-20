@@ -1,6 +1,11 @@
-## Shreya Chopra
+Shreya Chopra
 
 ## Frontend Engineer
+
+## - Based in New Delhi, India.
+- Let's build together: [Email](mailto:chopra.shreya003@gmail.com) or [Twitter](https://x.com/chopra_shreya03)
+- Crafting high-performance, aesthetically-driven web architectures.
+- Specializing in React, TypeScript, and modern CSS—currently scaling into Full-Stack systems.
 
 <!--
 **shreyachopra03-ux/shreyachopra03-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
