@@ -1,4 +1,4 @@
-Shreya Chopra
+## Shreya Chopra
 
 ## Frontend Engineer
 
@@ -7,6 +7,12 @@ Shreya Chopra
 - Crafting high-performance, aesthetically-driven web architectures.
 - Specializing in React, TypeScript, and modern CSS—currently scaling into Full-Stack systems.
 
+## Tools & Technologies
+
+- Languages: C/C++, Javascript/TypeScript
+- Frameworks/Libraries:  React.js
+- Platforms: GitHub
+- Misc: TailwindCSS
 <!--
 **shreyachopra03-ux/shreyachopra03-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
