@@ -17,8 +17,6 @@
 ## Connect
 • [LinkedIn](https://www.linkedin.com/in/shreya-chopra03/) • [Twitter](https://x.com/chopra_shreya03) • [Email](mailto:chopra.shreya003@gmail.com)
 
-## ![Profile Views](https://komarev.com/ghpvc/?username=shreyachopra03-ux)
-
 ## ![GitHub Streak](https://streak-stats.demolab.com?user=shreyachopra03-ux)
 <!--
 **shreyachopra03-ux/shreyachopra03-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
