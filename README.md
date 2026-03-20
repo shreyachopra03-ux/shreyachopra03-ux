@@ -1,4 +1,4 @@
-## Shreya Chopra
+## Hi there, I'm Shreya Chopra
 
 ## Frontend Engineer
 
