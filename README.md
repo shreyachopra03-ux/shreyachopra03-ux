@@ -1,6 +1,6 @@
-Shreya Chopra
+## Shreya Chopra
 
-Frontend Engineer
+## Frontend Engineer
 
 <!--
 **shreyachopra03-ux/shreyachopra03-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
