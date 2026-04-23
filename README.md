@@ -13,7 +13,7 @@
 - Frameworks/Libraries: React.js
 - Platforms: GitHub
 - Databases: MongoDB
-- ORM: Mongoose.
+- ORM: Mongoose
 - Misc: TailwindCSS
 
 ## Socials
