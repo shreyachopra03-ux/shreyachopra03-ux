@@ -10,8 +10,10 @@
 ## Tools & Technologies
 
 - Languages: C/C++, Javascript/TypeScript
-- Frameworks/Libraries:  React.js
+- Frameworks/Libraries: React.js
 - Platforms: GitHub
+- Databases: MongoDB
+- ORM: Mongoose.
 - Misc: TailwindCSS
 
 ## Socials
