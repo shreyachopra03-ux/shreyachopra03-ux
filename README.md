@@ -14,7 +14,7 @@
 - Platforms: GitHub
 - Databases: MongoDB
 - ORM: Mongoose
-- Misc: TailwindCSS
+- Misc: TailwindCSS, Postman
 
 ## Socials
 • [LinkedIn](https://www.linkedin.com/in/shreya-chopra03/) • [Twitter](https://x.com/chopra_shreya03) • [Email](mailto:chopra.shreya003@gmail.com)
