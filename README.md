@@ -10,7 +10,7 @@
 ## Tools & Technologies
 
 - Languages: C/C++, Javascript/TypeScript
-- Frameworks/Libraries: React.js
+- Frameworks/Libraries:  Node.js/Express.js, React.js
 - Platforms: GitHub
 - Databases: MongoDB
 - ORM: Mongoose
