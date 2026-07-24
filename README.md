@@ -1,6 +1,6 @@
 ## Hi there, I'm Shreya Chopra 👋
 
-## Frontend Engineer
+## Full Stack Engineer
 
 - Based in New Delhi, India.
 - Let's build together : [Email](mailto:chopra.shreya003@gmail.com) or [Twitter](https://x.com/chopra_shreya03)
