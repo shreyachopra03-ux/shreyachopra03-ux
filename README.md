@@ -9,12 +9,12 @@
 
 ## Tools & Technologies
 
-- Languages: C/C++, Javascript/TypeScript
-- Frontend: React, Redux, Tailwind CSS, HTML/CSS
-- Backend & Databases: Node.js, Express.js, MongoDB, Firebase, REST APIs
+- Languages: C/C++, Javascript/TypeScript, Python.
+- Frameworks/Libraries:  Node.js/Express.js, React.js, Next.js.
+- Platforms: GitHub.
+- Databases: MongoDB
 - ORM: Mongoose
-- Misc: Postman
-- Tools & Services: FFmpeg, Clerk Auth, Cloudinary, Git, GitHub
+- Misc: TailwindCSS
 
 ## Socials
 • [LinkedIn](https://www.linkedin.com/in/shreya-chopra03/) • [Twitter](https://x.com/chopra_shreya03) • [Email](mailto:chopra.shreya003@gmail.com)
